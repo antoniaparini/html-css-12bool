@@ -33,7 +33,8 @@
   padding-bottom: 10px;
 }
 
-[ class*="col-"] .padding-0 {
+/*[ class*="col-"]*/
+.padding-0 {
   padding-left: 0px;
   padding-right: 0px;
 }
